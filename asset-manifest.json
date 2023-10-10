@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/page_reviws/static/css/main.952a204f.css",
-    "main.js": "/github.io/page_reviws/static/js/main.011d920d.js",
-    "index.html": "/github.io/page_reviws/index.html",
-    "main.952a204f.css.map": "/github.io/page_reviws/static/css/main.952a204f.css.map",
-    "main.011d920d.js.map": "/github.io/page_reviws/static/js/main.011d920d.js.map"
+    "main.css": "/github.io/static/css/main.952a204f.css",
+    "main.js": "/github.io/static/js/main.011d920d.js",
+    "index.html": "/github.io/index.html",
+    "main.952a204f.css.map": "/github.io/static/css/main.952a204f.css.map",
+    "main.011d920d.js.map": "/github.io/static/js/main.011d920d.js.map"
   },
   "entrypoints": [
     "static/css/main.952a204f.css",
